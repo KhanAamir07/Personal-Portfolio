@@ -27,3 +27,17 @@ This is a responsive and dynamic portfolio site developed to highlight:
 
 ## 📂 Folder Structure
 
+- index.html
+- most1.css
+- most2.js
+- khan.jpeg
+- ak.jpeg
+- Rahul img.jpg
+- imtiyaz img.jp
+- resume
+
+## 📬 Contact
+
+- 📧 Email: aamirkhan91613216@gmail.com  
+- 🌍 Location: Mumbai City  
+
