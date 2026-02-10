@@ -1,0 +1,55 @@
+@import "../../_globalColor";
+
+.main-button {
+  background-color: $buttonColor;
+  border: 1px solid $buttonColor;
+  color: $textColorDark;
+  font-weight: 700;
+
+  width: auto;
+  max-width: 100%;
+  margin: 0;
+
+  padding: 10px 12px;
+  text-transform: uppercase;
+  border-radius: 6px;
+  text-align: center;
+  text-decoration: none;
+
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+
+  font-size: 1rem;
+  white-space: nowrap;
+
+  cursor: pointer;
+  transition: all 0.3s ease-in-out;
+}
+
+.main-button:hover {
+  background-color: $darkBoxShadow2;
+  color: $buttonColor;
+  transform: translateY(-2px);
+}
+.project-button {
+  display: flex;
+  justify-content: center;
+  margin-top: 20px;
+}
+.project-button > .main-button {
+  margin-right: 0 !important;
+}
+
+@media (max-width: 768px) {
+  .main-button {
+    font-size: 0.72rem;
+    padding: 8px 10px;
+    margin-right: 0px;
+  }
+}
+@media (max-width: 320px) {
+  .main-button {
+    font-size: 0.75rem;
+  }
+}

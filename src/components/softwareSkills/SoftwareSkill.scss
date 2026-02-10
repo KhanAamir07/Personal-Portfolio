@@ -1,0 +1,43 @@
+@import "../../_globalColor";
+
+.dev-icons {
+  padding-left: 0;
+  list-style: none;
+  margin: 0;
+  text-align: center;
+
+  display: grid;
+  grid-template-columns: repeat(9, minmax(0, 1fr));
+  gap: 24px;
+
+  justify-items: center;
+  align-items: center;
+}
+
+.software-skill-inline {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  text-align: center;
+}
+
+.software-skill-inline > i {
+  font-size: 40px;
+  color: $subTitle;
+  transition: color 0.3s ease;
+}
+
+.software-skill-inline > p {
+  margin-top: 6px;
+  color: $subTitle;
+  font-size: 10px;
+  white-space: nowrap;
+}
+
+.software-skill-inline > i:hover {
+  color: $skillsColor;
+}
+
+.software-skill-inline > i:hover ~ p {
+  color: $skillsColor;
+}

@@ -1,0 +1,101 @@
+@import "../../_globalColor";
+
+.container {
+  display: flex;
+  justify-content: center;
+  width: 100%;
+  padding: 0 12px;
+  box-sizing: border-box;
+  overflow-x: hidden;
+}
+
+.rectangle {
+  background: url(../../assets/images/talksCardBack.svg);
+  width: 100%;
+  max-width: 100%;
+  min-height: 360px;
+  margin: 40px auto 0 auto;
+  border-radius: 8px;
+  box-shadow: 0px 20px 50px $darkBoxShadow;
+  transition: all 0.3s ease;
+
+  display: flex;
+  flex-direction: column;
+}
+
+.rectangle:hover {
+  transform: translateY(-6px);
+  box-shadow: 0 25px 45px $textColorDark;
+}
+
+.dark-rectangle {
+  box-shadow: 0px 0px 20px 0px;
+}
+
+.mask {
+  width: 100%;
+  max-width: 100%;
+  position: relative;
+  clip: unset;
+  overflow: hidden;
+  border-radius: 8px 8px 0 0;
+  box-sizing: border-box;
+}
+
+.talk-card-title {
+  color: $textColorDark;
+  margin-top: 28px;
+  padding-top: 18px;
+  padding: 0 16px;
+  font-size: 22px;
+  line-height: 1.4;
+  text-align: center;
+  word-break: break-word;
+  overflow-wrap: break-word;
+  box-sizing: border-box;
+}
+
+.talk-card-subtitle {
+  margin-top: 100px;
+  padding: 0 16px;
+  font-size: 15px;
+  color: $talkCardSubTitle;
+  line-height: 1.6;
+  box-sizing: border-box;
+}
+
+.talk-button {
+  background-color: $buttonColor;
+  color: $textColorDark;
+  padding: 10px 18px;
+  border-radius: 4px;
+  text-align: center;
+  text-decoration: none;
+  font-size: 14px;
+  cursor: pointer;
+}
+
+.talk-button:hover {
+  background: $buttonHover;
+}
+
+.card-footer-button-div {
+  margin-top: auto;
+  margin-bottom: 40px;
+  display: flex;
+  justify-content: space-around;
+  padding: 0 16px;
+  box-sizing: border-box;
+}
+
+@media (max-width: 768px) {
+  .container {
+    padding: 0 8px;
+  }
+
+  .rectangle {
+    max-width: 100%;
+    margin-left: auto;
+    margin-right: auto;
+  }
+}

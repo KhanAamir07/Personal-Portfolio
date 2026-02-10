@@ -1,0 +1,49 @@
+.project-title {
+  font-size: 52px;
+  font-weight: 400;
+  line-height: normal;
+}
+
+.startup-project-text img {
+  max-width: 100%;
+  height: auto;
+}
+
+.repo-cards-div-main {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  gap: 2rem;
+  align-items: stretch;
+}
+
+@media (max-width: 1380px) {
+  .project-title {
+    font-size: 40px;
+    text-align: center;
+  }
+}
+@media (max-width: 768px) {
+  .project-title {
+    font-size: 30px;
+    text-align: center;
+  }
+
+  .repo-cards-div-main {
+    grid-template-columns: 1fr;
+    gap: 1.5rem;
+  }
+}
+
+.projects-container {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  gap: 2rem;
+  align-items: stretch;
+}
+
+@media (max-width: 768px) {
+  .projects-container {
+    grid-template-columns: 1fr;
+    gap: 1.5rem;
+  }
+}
