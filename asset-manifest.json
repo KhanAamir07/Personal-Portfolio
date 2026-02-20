@@ -1,0 +1,42 @@
+{
+  "files": {
+    "main.css": "/Personal-Portfolio/static/css/main.b1bc6a70.css",
+    "main.js": "/Personal-Portfolio/static/js/main.a0fb688c.js",
+    "static/css/64.bba8fa55.chunk.css": "/Personal-Portfolio/static/css/64.bba8fa55.chunk.css",
+    "static/js/64.c2bbbd30.chunk.js": "/Personal-Portfolio/static/js/64.c2bbbd30.chunk.js",
+    "static/css/769.b3cbb36b.chunk.css": "/Personal-Portfolio/static/css/769.b3cbb36b.chunk.css",
+    "static/js/769.6764ada6.chunk.js": "/Personal-Portfolio/static/js/769.6764ada6.chunk.js",
+    "static/media/intro.mp3": "/Personal-Portfolio/static/media/intro.4b10cc9973c4a8a7e4b7.mp3",
+    "static/media/hospital.png": "/Personal-Portfolio/static/media/hospital.900c7379f20ee852b305.png",
+    "static/media/Montserrat-Regular.ttf": "/Personal-Portfolio/static/media/Montserrat-Regular.3cd786652b8a2e9d41f2.ttf",
+    "static/media/senior.png": "/Personal-Portfolio/static/media/senior.1dc1b5e639b0aa19bf3a.png",
+    "static/media/Agustina.woff": "/Personal-Portfolio/static/media/Agustina.eb0c59dda4cc308cba96.woff",
+    "static/media/ecommerce.png": "/Personal-Portfolio/static/media/ecommerce.8af4493b9314ccdc926f.png",
+    "static/media/spdt.png": "/Personal-Portfolio/static/media/spdt.a05ef7ea71c96eab20d0.png",
+    "static/media/project-achive.png": "/Personal-Portfolio/static/media/project-achive.151e0d00f6dd6220304c.png",
+    "static/media/project.png": "/Personal-Portfolio/static/media/project.1bf4032bef6cfac6a733.png",
+    "static/media/manOnTable.svg": "/Personal-Portfolio/static/media/manOnTable.8f117eb207e57ed8f89d67d595aceb45.svg",
+    "static/media/podcast-bg.jpg": "/Personal-Portfolio/static/media/podcast-bg.ebadec4a64564aa7738c.jpg",
+    "static/media/hostel.png": "/Personal-Portfolio/static/media/hostel.a1a4ea23029fa6b611b4.png",
+    "static/media/learning-achive.png": "/Personal-Portfolio/static/media/learning-achive.7b251d06ecbdd0a472d0.png",
+    "static/media/contactMailDark.svg": "/Personal-Portfolio/static/media/contactMailDark.1db650d351729a0f17b4e3104e6a7b7a.svg",
+    "static/media/developerActivity.svg": "/Personal-Portfolio/static/media/developerActivity.2c0445cae86f4243433a2f5a22b2c031.svg",
+    "static/media/mumbai-logo.png": "/Personal-Portfolio/static/media/mumbai-logo.2fb27518e16c4094ae8e.png",
+    "static/media/quiz.png": "/Personal-Portfolio/static/media/quiz.8d17723d10152425c45e.png",
+    "static/media/junior.png": "/Personal-Portfolio/static/media/junior.94dad1f3cc800c8a2466.png",
+    "static/media/hackerrank-achive.png": "/Personal-Portfolio/static/media/hackerrank-achive.03969e6171b7ffc47aef.png",
+    "static/media/skill.svg": "/Personal-Portfolio/static/media/skill.35a147662ab0a1d15e579690446e0258.svg",
+    "index.html": "/Personal-Portfolio/index.html",
+    "static/media/talksCardBack.svg": "/Personal-Portfolio/static/media/talksCardBack.73ed1545d58273ba64b0.svg",
+    "main.b1bc6a70.css.map": "/Personal-Portfolio/static/css/main.b1bc6a70.css.map",
+    "main.a0fb688c.js.map": "/Personal-Portfolio/static/js/main.a0fb688c.js.map",
+    "64.bba8fa55.chunk.css.map": "/Personal-Portfolio/static/css/64.bba8fa55.chunk.css.map",
+    "64.c2bbbd30.chunk.js.map": "/Personal-Portfolio/static/js/64.c2bbbd30.chunk.js.map",
+    "769.b3cbb36b.chunk.css.map": "/Personal-Portfolio/static/css/769.b3cbb36b.chunk.css.map",
+    "769.6764ada6.chunk.js.map": "/Personal-Portfolio/static/js/769.6764ada6.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b1bc6a70.css",
+    "static/js/main.a0fb688c.js"
+  ]
+}
