@@ -17,7 +17,7 @@ const greeting = {
     "A passionate Full Stack Software Developer 🚀 specializing in Backend and Database Development with hands-on experience in Java, Python, MySQL, and modern web technologies."
   ),
   resumeLink:
-    "https://drive.google.com/file/d/1IwnWkUD3YsKOH-HlhHzknTxv0NfqAr11/view?usp=sharing",
+"https://drive.google.com/uc?export=download&id=1IwnWkUD3YsKOH-HlhHzknTxv0NfqAr11",
   displayGreeting: true
 };
 
